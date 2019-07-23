@@ -1,0 +1,2 @@
+sh 'echo hello' /* short form  */
+sh([script: 'echo hello'])  /* long form */
